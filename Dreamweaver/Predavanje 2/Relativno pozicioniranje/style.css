@@ -1,0 +1,63 @@
+#wrapper {
+	width: 400px;
+	margin: 0 auto;
+	text-align: center;
+	line-height: 50px;
+	
+}
+p {
+	margin: 0;
+}
+#firstrow, #secondrow , #secondrow {
+	overflow: hidden;
+}
+#blueleft {
+	background: #3399CC;
+	height: 50px;
+	width: 100px;
+	color: #FFFFFF;
+	float: left;
+}
+#blueright {
+	background: #3399CC;
+	height: 50px;
+	width: 100px;
+	float: left;
+	position: relative;
+	left: 120px;
+	margin: 10px 20px;
+	color: #FFFFFF;
+	margin: 0;
+}
+#orangeleft {
+	background: #FF3333;
+	color: #FFFFFF;
+	height: 50px;
+	width: 100px;
+	float: left;
+	margin: 5px 10px 5px 0;
+}
+#orangeright {
+	background: #FF3333;
+	color: #FFFFFF;
+	height: 50px;
+	width: 100px;
+	float: left;
+	margin: 5px 10px 5px 0;
+}
+#greenleft {
+	background: #33CC66;
+	color: #FFFFFF;
+	height: 50px;
+	width: 100px;
+	float: left;
+	margin: 5px 10px 5px 0;
+}
+#greenright {
+	background: #33CC66;
+	color: #FFFFFF;
+	height: 50px;
+	width: 100px;
+	float: left;
+	margin: 5px 10px 5px 0;
+}

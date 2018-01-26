@@ -1,0 +1,21 @@
+.division {
+	background: #F2F3B5;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-right: 50px;
+	background-image: url(back.png);
+	padding: 10px;
+}
+#background1 {
+	background-size: auto; /* default */
+	background-origin: border-box;
+}
+#background2 {
+	background-size: contain;
+	background-origin: padding-box;
+}
+#background3 {
+	background-size: cover;
+	background-origin: content-box;
+}

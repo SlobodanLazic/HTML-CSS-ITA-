@@ -1,0 +1,16 @@
+.elementIspred {
+	height: 30px;
+	width: 60px;
+	background: #000000;
+	position: relative;
+	top: 20px;
+	left: 10px;
+	z-index: 100;
+}
+.elementIza {
+	height: 30px;
+	width: 60px;
+	position: absolute;
+	background: #FF0000;
+	z-index: -30;
+}

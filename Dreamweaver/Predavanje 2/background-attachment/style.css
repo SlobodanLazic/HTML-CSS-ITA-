@@ -1,0 +1,14 @@
+body {
+	background-image:url(images/back.png);
+	background-repeat: no-repeat;
+	background-position: 50% 0;
+	/* you can also use values:
+	background-position:left top;
+	background-position:left center;
+	background-position:left bottom;
+	background-position:center center;
+	background-position:center bottom;
+	background-position:right top;
+	background-position:right center;
+	background-position:right bottom;*/
+}

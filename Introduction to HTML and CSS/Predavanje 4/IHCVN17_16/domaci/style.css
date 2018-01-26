@@ -1,0 +1,23 @@
+body {
+	background-color:#BDC7D3;
+}
+#wrapple {
+	width:740px;
+	padding:20px;
+	border:2px solid #082760;
+	margin:40px auto;
+	background-color:#40B9CC;
+}
+.provinces {
+	width:700px;
+	background-color:#CEB37B;
+	padding:20px;
+	border:2px solid #6E500A;
+	margin-bottom:20px;
+	}
+#last {
+	background-color:#916536;
+	margin:40px auto 20px;
+	padding:20px;
+	border:2px solid #73340B;
+}

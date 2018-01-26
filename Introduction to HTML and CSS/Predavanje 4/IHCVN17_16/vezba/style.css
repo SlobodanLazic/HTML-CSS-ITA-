@@ -1,0 +1,27 @@
+body {
+	background-color:#89D6D9;
+}
+#wrapper {
+	background-color:#FFFFFF;
+	width:960px;
+	padding:20px;
+	margin:auto;
+}
+#lesser {
+	background-color:#DDDDDD;
+	width:900px;
+	padding:10px;
+}
+table,tr,td {
+	border:1px solid #CCCCCC;
+	border-collapse:collapse;
+	background-color: #F5F4F2;
+	margin-bottom:20px;
+	padding: 4px;
+}
+.trcolor {
+	background-color:#ECE7D7;
+}
+#uptext {
+	vertical-align:top;
+}

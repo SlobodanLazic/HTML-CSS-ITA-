@@ -1,0 +1,68 @@
+body {
+	background:#CC9966;
+}
+#wrapper {
+	width:950px;
+	padding:15px;
+	background:#FFFFFF;
+	margin:auto;
+}
+#header {
+	background:#8CC63F;
+	height:150px;
+}
+#image {
+	margin:0 180px;
+}
+#nav {
+	height:40px;
+	background:#534741;
+	margin:15px auto;
+	color:white;
+	text-align:center;
+}
+#main {
+	width:660px;
+	margin-right:10px;
+	margin-bottom:15px;
+	height:450px;
+	float:left;
+	background:#E6E6E6;
+}
+#sidebar {
+	width:280px;
+	height:450px;
+	background:#CCCC99;
+	float:left;
+}
+#footer {
+	height:40px;
+	background:#534741;
+	clear:both;
+	margin-top:auto;
+	text-align:center;
+}
+#imp {
+	font-weight: bold;
+	font-size:30px;
+}
+/* unvisited link */
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: aqua;
+}
+
+/* mouse over link */
+a:hover {
+    color: yellow;
+}
+
+/* selected link */
+a:active {
+    color: white;
+}
+

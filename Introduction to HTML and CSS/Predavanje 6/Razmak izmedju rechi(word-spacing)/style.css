@@ -1,0 +1,8 @@
+#wrapper {
+	width:500px;
+	margin:0 auto;
+}
+p {
+	letter-spacing:10px;
+	word-spacing:30px;
+}

@@ -1,0 +1,16 @@
+#wrapper {
+	width:500px;
+	margin:0 auto;
+}
+#header {
+	text-align:left;
+}
+#main {
+	text-align:right;
+}
+#sidebar {
+	text-align:justify;
+}
+#footer {
+	text-align:center;
+}

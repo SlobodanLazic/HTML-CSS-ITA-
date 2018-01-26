@@ -1,0 +1,9 @@
+body {
+	/* background-image: url("images/back.png");
+	background-repeat: no-repeat;
+	background-position: left top;
+	background-color: #3CC;
+	background-attachment: scroll;
+	*/
+	background:#3CC url("images/back.png") no-repeat scroll left top;
+}

@@ -1,0 +1,32 @@
+#wrapper {
+	width:900px;
+	margin:0 auto;
+}
+table, th, td {
+	border:2px solid black;
+	border-collapse:collapse;
+}
+.textGore {
+	vertical-align:text-top;
+}
+.textBaseline {
+	vertical-align:baseline;
+}
+#sub {
+	vertical-align:sub;
+}
+#sup {
+	vertical-align:super;
+}
+#top {
+	vertical-align:top;
+}
+#middle {
+	vertical-align:middle;
+}
+#bottom {
+	vertical-align:bottom;
+}
+#text-bottom {
+	vertical-align:text-bottom;
+}

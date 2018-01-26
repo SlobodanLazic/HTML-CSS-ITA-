@@ -1,0 +1,70 @@
+body {
+	background:#FFFFFF;
+}
+#wrapper {
+	background-image: url('NvKqj.jpg');
+	background-size:cover;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	width:950px;
+	padding:15px;
+	margin:auto;
+}
+#header {
+	height:150px;
+}
+#image {
+	margin:0 180px;
+	opacity:0.1;
+}
+#nav {
+	height:40px;
+	margin:15px auto;
+	text-align:right;
+	opacity:0.2;
+}
+#main {
+	width:660px;
+	margin-right:10px;
+	margin-bottom:15px;
+	height:450px;
+	float:left;
+}
+#sidebar {
+	width:280px;
+	height:450px;
+	float:left;
+}
+#footer {
+	height:40px;
+	clear:both;
+	margin-top:auto;
+	text-align:center;
+}
+#imp {
+	font-weight: bold;
+	font-size:30px;
+}
+.transp {
+	opacity:0.2;
+}
+/* unvisited link */
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: aqua;
+}
+
+/* mouse over link */
+a:hover {
+    color: yellow;
+}
+
+/* selected link */
+a:active {
+    color: white;
+}
+

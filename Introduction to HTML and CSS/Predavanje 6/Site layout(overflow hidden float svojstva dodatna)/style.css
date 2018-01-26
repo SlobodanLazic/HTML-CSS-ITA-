@@ -1,0 +1,63 @@
+body {
+	background:#CC9966;
+}
+#wrapper {
+	width:950px;
+	margin:0 auto;
+	padding:15px;
+	background:#FFFFFF;
+}
+#header {
+	background:#8CC63F;
+	margin-bottom:15px;
+	padding:20px;
+	overflow:hidden;
+}
+#logo {
+	float:left;
+}
+.slogan {
+	float:right;
+}
+#nav {
+	background:#534741;
+	height:40px;
+	margin-bottom:15px;
+}
+#main {
+	float:left;
+	width:620px;
+	background:#E6E6E6;
+	margin-bottom:15px;
+	padding:20px;
+}
+.imgleft {
+	float:left;
+	margin:0 10px 7px 0;
+	border-bottom:2px dashed red;
+}
+.imgleft p {
+	font-size:12px;
+	font-style:italic;
+}
+.article {
+	float:left;
+	width:190px;
+	margin-right:16px;
+}
+#poslednji {
+	background:lime;
+	clear:both;
+}
+#sidebar {
+	float:right;
+	width:280px;
+	height:300px; /* priv */
+	background:#CCCC99;
+	margin-bottom:15px;
+}
+#footer {
+	background:#534741;
+	height:40px;
+	clear:both;
+}

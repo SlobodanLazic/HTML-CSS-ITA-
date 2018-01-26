@@ -1,0 +1,23 @@
+.alldivs {
+	width: 100px;
+	height: 50px;
+	color: #FFFFFF;
+	text-align: center;
+	line-height: 50px;
+	
+}
+#Box1 {
+	background: #3399CC;
+	position: absolute;
+	left: 50px;
+	top: 200px;
+}
+#Box1 p {
+	display: inline;
+}
+#Box2 {
+	background: #FF3333;
+}
+#Box3 {
+	background: #3366CC;
+}

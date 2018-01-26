@@ -1,0 +1,46 @@
+body {
+	background-image: url("mokranjac.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	color:white;
+	border-style:none;
+	
+}
+h1 {
+	text-align: center;
+	color: rgb(255, 230, 230);
+}
+h2 {
+	text-align: center;
+	color: rgb(230, 247, 255);
+}
+ul {
+	font-family: normal;
+	
+}
+a:link {
+	text-decoration:none;
+}
+a:visited {
+	color: red;
+	text-decoration:none;
+}
+a:hover {
+	color:yellow;
+	text-decoration:none;
+}
+a:active {
+	color:green;
+	text-decoration:none;
+}
+audio:hover, audio:focus, audio:active
+{
+-webkit-box-shadow: 15px 15px 20px rgba(0,0, 0, 0.4);
+-moz-box-shadow: 15px 15px 20px rgba(0,0, 0, 0.4);
+box-shadow: 15px 15px 20px rgba(0,0, 0, 0.4);
+-webkit-transform: scale(1.05);
+-moz-transform: scale(1.05);
+transform: scale(1.05);
+}

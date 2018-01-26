@@ -1,0 +1,15 @@
+p {
+	color: #0000FF; /* plava boja */
+}
+h1 {
+	color: rgb(175, 50, 175) /* jedna ljubicasta boja */
+}
+h2 {
+	color: #0000FF; /* plava boja */
+}
+h3 { 
+	color: Yellow; /* zuta boja */
+}
+h4 {
+	color: hsl(20, 100%, 50%); /* narandzasta boja */
+}

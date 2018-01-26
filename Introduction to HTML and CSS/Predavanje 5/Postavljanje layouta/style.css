@@ -1,0 +1,20 @@
+#wrapper {
+	width:960px;
+	background:#E5A685;
+	height:720px;
+}
+#main {
+	background:#D15B04;
+	float:left;
+	width:700px;
+	padding:20px;
+	height:680px;
+	
+}
+#sidebar {
+	background:#44A0C9;
+	float:right;
+	width:200px;
+	padding:10px;
+	height:700px;
+}

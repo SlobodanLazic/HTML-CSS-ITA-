@@ -1,0 +1,25 @@
+#border-box {
+	background: #00CCFF;
+	background-clip: border-box;
+	width: 200px;
+	border: #FF3300 dashed 2px;
+	float: left;
+	margin: 10px;
+}
+#padding-box {
+	background: #00CCFF;
+	background-clip: padding-box;
+	width: 200px;
+	border: #FF3300 dashed 2px;
+	float: left;
+	margin: 10px;
+}
+#content-box {
+	background: #00CCFF;
+	background-clip: content-box;
+	width: 200px;
+	border: #FF3300 dashed 2px;
+	float: left;
+	margin: 10px;
+	padding: 5px;
+}

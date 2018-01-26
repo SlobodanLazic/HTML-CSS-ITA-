@@ -1,0 +1,32 @@
+#osnova {
+	background:silver;
+	width:960px;
+	margin:0 auto;
+}
+#prvi {
+	height:150px;
+	background:red;
+}
+#drugi {
+	width:260px;
+	height:280px;
+	background:blue;
+	float:left;
+}
+#treci {
+	width:200px;
+	height:200px;
+	background:green;
+	float:right;
+}
+#novi {
+	width:600px;
+	height:200px;
+	background:purple;
+	float:left;
+}
+#cetvrti {
+	height:100px;
+	background:orange;
+	clear:both;
+}
