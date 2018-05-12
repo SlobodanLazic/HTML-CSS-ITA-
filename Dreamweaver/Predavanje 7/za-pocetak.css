@@ -1,0 +1,43 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	margin:0;
+	padding:0;
+	font-size:14px;
+	font-family: 'Roboto', Arial, sans-serif;
+	color:#363636;
+	font-weight:300;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-weight:900;
+	margin:1em 0 0.5em;
+	color:#696969;
+}
+
+h1 { font-size:3em;}
+h2 { font-size:2.2em;}
+h3 { font-size:2em;}
+h4 { font-size:1.6em;}
+h5 { font-size:1.4em;}
+h6 { font-size:1.2em;}
+
+p {
+	margin:0.3em 0 0.5em;
+}
+img {
+	vertical-align:bottom;
+	max-width:100%;
+}
+
+a:link,
+a:visited {
+	text-decoration:none;
+	color:#e84e1b;
+}
+a:hover {
+	color:#f39200;
+}
+a:active {
+	color:#696969;
+}
